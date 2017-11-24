@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="@dimen/jarak150dp"
+        android:layout_height="@dimen/jarak150dp"
+        android:src="@drawable/havefun" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/jarak10dp"
+        android:fontFamily="@font/montserrat"
+        android:gravity="center"
+        android:text="Have Fun"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/jarak30sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/jarak5dp"
+        android:gravity="center"
+        android:text="Selamat mencoba aplikasi ini :D"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/jarak20sp" />
+
+</LinearLayout>

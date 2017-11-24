@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c12501</color>
+    <color name="colorPrimaryDark">#971c00</color>
+    <color name="colorAccent">#000000</color>
+    <color name="black_with_opacity">#a0000000</color>
+    <array name="array_dot_activ">
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+    </array>
+
+    <array name="array_dot_noactiv">
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+    </array>
+</resources>
